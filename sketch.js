@@ -99,7 +99,7 @@ function setup() {
 function draw() {
   console.log(gameState);
   console.log(camera.x, camera.y);
-  player.debug = true;
+
   // sword.x = player.x;
   // sword.y = player.y + 10;
 
